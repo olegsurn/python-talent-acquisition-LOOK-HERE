@@ -1,0 +1,10 @@
+Problems with the data quota
+Normalized CSV on google drive at this link
+https://drive.google.com/file/d/15MfUweYfQ9x9rMTh8PlvfRdfVMAjX6yd/view?usp=sharing
+'~' - COLUMNS SEPARATOR!!!!!
+
+You can see my CV at this link
+https://docs.google.com/document/d/1pF6fw9RJI5_-wb1XJ683halO2LIfi1h1l4E90eqXS5c/edit?usp=sharing
+ 
+My bitbucket repository
+https://bitbucket.org/olegsuyarkov/
